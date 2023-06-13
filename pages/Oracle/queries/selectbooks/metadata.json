@@ -2,7 +2,7 @@
   "pluginType": "DB",
   "pluginId": "oracle-plugin",
   "unpublishedAction": {
-    "name": "Query1",
+    "name": "selectbooks",
     "datasource": {
       "name": "9",
       "pluginId": "oracle-plugin",
@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1",
+    "pageId": "Oracle",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -21,7 +21,7 @@
       "selfReferencingDataPaths": [],
       "formData": {
         "body": {
-          "data": "e"
+          "data": "SELECT * FROM BOOKS"
         },
         "preparedStatement": {
           "data": true
@@ -37,9 +37,10 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-06-13T10:37:29Z"
   },
-  "id": "Page1_Query1",
+  "id": "Oracle_selectbooks",
   "deleted": false,
-  "gitSyncId": "64882c61976fbf2a9794343c_64882ca2976fbf2a97943444"
+  "gitSyncId": "6488466c976fbf2a97943557_648846e9976fbf2a97943564"
 }

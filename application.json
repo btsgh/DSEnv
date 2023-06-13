@@ -15,6 +15,10 @@
     {
       "id": "Mongo",
       "isDefault": false
+    },
+    {
+      "id": "Dynamo",
+      "isDefault": false
     }
   ],
   "viewMode": false,

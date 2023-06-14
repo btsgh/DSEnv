@@ -1,0 +1,6 @@
+create table storytelling (
+                child varchar (255),
+                age int,
+								month varchar (255),
+								status varchar (255)
+								);

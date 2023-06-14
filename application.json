@@ -31,6 +31,14 @@
     {
       "id": "MSSQL",
       "isDefault": false
+    },
+    {
+      "id": "SMTP",
+      "isDefault": false
+    },
+    {
+      "id": "Redshift",
+      "isDefault": false
     }
   ],
   "viewMode": false,

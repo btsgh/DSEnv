@@ -35,6 +35,14 @@
     {
       "id": "S3",
       "isDefault": false
+    },
+    {
+      "id": "snowflake",
+      "isDefault": false
+    },
+    {
+      "id": "snowflake_gpwd",
+      "isDefault": false
     }
   ],
   "viewMode": false,

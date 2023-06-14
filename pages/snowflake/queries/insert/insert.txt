@@ -1,0 +1,2 @@
+INSERT INTO PUBLIC.USERS (NAME, PHONENO, EMAIL, ROLE, UPDATEDAT, DOB, AVATAR, STATUS, ADDRESS, CREATEDAT, GENDER, ID)
+  VALUES ('{{Text1.text}}', '{{Input2.text}}', '{{Input1.text}}', '', '2021-01-01 00:00:01', '2021-01-01', '', '', '{{Text2.text}}', '2021-01-01 00:00:01', '{{Select1.selectedOptionLabel}}', 1);

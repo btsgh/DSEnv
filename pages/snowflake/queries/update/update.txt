@@ -1,0 +1,4 @@
+UPDATE PUBLIC.USERS SET
+ID = {{Input1.text}}
+    
+  WHERE NAME = '{{Text1.text}}'; -- Specify a valid condition here. Removing the condition may update every row in the table!

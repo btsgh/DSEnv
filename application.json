@@ -19,6 +19,18 @@
     {
       "id": "Dynamo",
       "isDefault": false
+    },
+    {
+      "id": "MySQL",
+      "isDefault": false
+    },
+    {
+      "id": "Users",
+      "isDefault": false
+    },
+    {
+      "id": "MSSQL",
+      "isDefault": false
     }
   ],
   "viewMode": false,

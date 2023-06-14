@@ -1,0 +1,1 @@
+INSERT INTO dbo.Persons (PersonID, LastName, FirstName, Address, City) VALUES ({{Input1.text}}, '{{Text1.text}}', '{{Text2.text}}', '{{Input2.text}}', '{{Select1.selectedOptionLabel}}')

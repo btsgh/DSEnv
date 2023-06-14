@@ -1,0 +1,1 @@
+UPDATE dbo.Persons SET PersonID={{Input1.text}} WHERE LastName={{Text1.text}} -- Specify a valid condition here. Removing the condition may update every row in the table!

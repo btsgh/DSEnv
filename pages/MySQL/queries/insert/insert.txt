@@ -1,0 +1,2 @@
+INSERT INTO users (id, name, createdAt, updatedAt, status, gender, avatar, email, address, role, dob, phoneNo)
+  VALUES (2173, 'Umesh Yadav', '2019-07-01 10:00:00', '2019-07-01 10:00:00', '', '', '', '', '', '', '2019-07-01', '');

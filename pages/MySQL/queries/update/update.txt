@@ -1,0 +1,4 @@
+UPDATE users SET
+  
+    name = '{{Text1.text}}'
+  WHERE  id = {{Input1.text}}; -- Specify a valid condition here. Removing the condition may update every row in the table!

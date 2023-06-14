@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1",
+    "pageId": "Redis",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -39,7 +39,7 @@
     "userPermissions": [],
     "createdAt": "2023-06-14T03:38:52Z"
   },
-  "id": "Page1_setdate",
+  "id": "Redis_setdate",
   "deleted": false,
   "gitSyncId": "6488466c976fbf2a97943557_6489364cb04b0f17e6884b04"
 }

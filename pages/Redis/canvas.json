@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "Redis",
+    "slug": "redis",
     "layouts": [
       {
         "viewMode": false,
@@ -273,7 +273,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_getdate",
+              "id": "Redis_getdate",
               "name": "getdate",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -283,7 +283,7 @@
           ],
           [
             {
-              "id": "Page1_setdate",
+              "id": "Redis_setdate",
               "name": "setdate",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -296,14 +296,15 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "Redis",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "gitSyncId": "6488466c976fbf2a97943557_64893657b04b0f17e6884b07"
